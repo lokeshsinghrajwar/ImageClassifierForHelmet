@@ -10,8 +10,7 @@ Here is the link https://drive.google.com/file/d/1GmNawDFGA0rguJPRbYniCge4oUjJ01
 
 I have provided the label_image.py file which is used to test the model for new images.
 
-Below is my docker id where trained model is stored.
-docker attach 23eb220ba377
+Here is my docker id where trained model is stored: 23eb220ba377
 
 You just have to run the following command to test the model
 python /tf_files/label_image.py /tf_files/Test_Image.jpg
